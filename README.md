@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rkth/rkth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🙏🏽
+
+Hey, global citizens of Internet, *Namaste*!
+
+I am **Rahul Thakare**, a student of **Computer Science** from **India**. 🇮🇳
+
+I like discovering how things work. 😀
+
+I am interested in Web Development, App Development. 💻
+
+Also, I can write Hello World in 111 languages *(just kidding!)*. 😅
